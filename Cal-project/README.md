@@ -12,7 +12,7 @@ The calculator project involves implementing a Python program that:
 
 ## The Process
 ### 1. Define a function and initial variable
-Most developers can build a basic calculator program without defining functions. However, I prioritized code reusability over simplicity on this project.
+Most developers can build a basic calculator program without defining functions. However, on this project, I prioritized code reusability over simplicity.
 I defined a function `bCalc()` and initialized a variable `expression` to the user's input string. Below is an example:
 
 ```
@@ -83,7 +83,8 @@ The final else statement sends an error message to the user if their input does 
 bCalc()
 ```
 
-Indentation is mandatory in Python. Use correct and consistent indentation to ensure your code works [^1].
+> [!IMPORTANT]
+> Indentation is mandatory in Python. You should use correct and consistent indentation to make sure your code works.
 
 
 
