@@ -8,5 +8,6 @@ This repo contains my documentation samples, in:
 
 Below is a list to help you land on specific pages:
 > P.S: after the colon is the documentation tool/framework for each project
+* [Postman Installation Guide: reStructuredText](https://github.com/Nneoma00/Technical-Writing-Projects/wiki/Postman-Installation-Guide)
 * [Python Calculator Tutorial: Markdown](https://github.com/Nneoma00/Technical-Writing-Projects/blob/main/Cal-project/README.md)
 * [Auto Password Generator Docs: Confluence](https://nneoma-uche.atlassian.net/wiki/spaces/MSD/pages/229588/Build+an+Auto+Password+Generator+with+Python)
