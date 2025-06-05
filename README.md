@@ -4,7 +4,8 @@ Welcome!
 This repo contains my documentation samples, in:
 1. Markdown
 2. reStucturedText
-3. DITA XML
+3. Ascii Doc
+4. DITA XML
 
 It also includes technical articles, tutorials and user guides.
 
