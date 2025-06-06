@@ -114,12 +114,15 @@ Use the displayed information to refactor your code as needed.
 
 ### FAQs
 1. Why can't I use my regular Gmail password for automating emails via Python?
+
 Since the deprecation of the *Less Secure Apps* feature, Google no longer supports direct login from scripts. You must use an app password tailored to your program, or OAuth 2.0 to access the Gmail API.
    
 2. What if I lose my app password?
+
 You can create another app password for your script, by going to [myaccount.google.com/appasswords](https://myaccount.google.com/apppasswords).
  
 3. Is using an app password safe?
+
 Using an app password is safer than storing your Gmail password in scripts. You can delete it and create another at anytime without affecting your main password.
 
 
