@@ -16,3 +16,4 @@ Below is a list to help you land on specific pages:
 * [Auto Password Generator Docs: Confluence](https://nneoma-uche.atlassian.net/wiki/spaces/MSD/pages/229588/Build+an+Auto+Password+Generator+with+Python)
 * [Current Weather Endpoint API -Reference : Postman](https://documenter.getpostman.com/view/44204277/2sB2qgfeBV)
 * [GP-API Analysis + Breaking Changes](https://github.com/Nneoma00/Technical-Writing-Projects/blob/main/payment-api-breaking-changes-analysis.md)
+* [Tutorial: Automating Emails Using Python and Google App Passwords](https://github.com/Nneoma00/Technical-Writing-Projects/blob/main/email-automation.md)
